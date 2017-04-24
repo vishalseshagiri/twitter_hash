@@ -1,0 +1,20 @@
+{'Tweet': 'MoetMomentRogerFederer\n\nVia bettyautier laurengaudette IG pic.twitter.com/nARs9N99tT', 'Name': 'Dalinda #RF', 'Handle': 'TennisRFan', 'likes': '51', 'replies': '2', 'retweets': '14', 'Date': 'Mar 23'}
+{'Tweet': 'Players when Roger Federer plays like this \n\nMiamiOpenRogerFedererpic.twitter.com/mxOA940TaT', 'Name': 'Anna', 'Handle': 'AnnaR9492', 'likes': '3', 'replies': '0', 'retweets': '3', 'Date': '6h'}
+{'Tweet': 'Embed VideoPoetry in motion RogerfedererMiamiOpenpic.twitter.com/TYH7pWpThf', 'Name': 'Allez Roger', 'Handle': 'kah22jad', 'likes': '12', 'replies': '0', 'retweets': '2', 'Date': 'Mar 29'}
+{'Tweet': 'Embed VideoEPIC POINT\nFederer hits an unbelievable passing shot!\nhotshottennisFedererTiafoeMiamiMiamiOpenMiamiBeachtenisRogerFedererpic.twitter.com/OsUPAfLb4i', 'Name': 'Chiamarsi Fogna', 'Handle': 'ChiamarsiFogna', 'likes': '14', 'replies': '0', 'retweets': '10', 'Date': 'Mar 26'}
+{'Tweet': 'rogerfederer marches on ...yet another mouth watering final  against Nadal looms...MiamiOpen', 'Name': 'Shakeel Gundagi', 'Handle': 'shaqueelsinai', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '1m'}
+{'Tweet': 'Kenneth Loch recognizes RogerFederer as the Best Tennis Player, among StudentsEntertained by BabySitters, not Educated by a Teacher', 'Name': 'TENNISSANCE Method', 'Handle': 'tennissance', 'replies': '0', 'retweets': '0', 'Date': '4h'}
+{'Tweet': 'Unbelievable RogerFederer Does it again!!! On to the next match!!! MiamiOpen', 'Name': 'SkepticalSandra', 'Handle': 'ringgoldsandra', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '4h'}
+{'Tweet': '\n    Replying to BenRothenbergNice match RogerFederer and ThomasBerdych! That was a very involved and enthusiastic crowd. Well said Roger. BenRothenberg', 'Name': 'Judi Neuk', 'Handle': 'JudiNeuk', 'replies': '0', 'retweets': '0', 'Date': '4h'}
+{'Tweet': 'If Kenneth Loch of the TENNISSANCE Method is 1day recognized as the Genius of Tennis, what would that make RogerFederer? The AntiGenius', 'Name': 'TENNISSANCE Method', 'Handle': 'tennissance', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'All hail Maestro rogerfederer for his performance & comeback in the tie-break!!!MiamiOpenRogerFedererATPWorldTourATPMediaInfo', 'Name': 'Pegah', 'Handle': 'PegahNzr', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'RogerFederer advance to semifinals MiamiOpen 2017', 'Name': 'Ratna Anand Babu', 'Handle': 'anandbabu1987', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'RogerFederer the true King of Tennis... MiamiOpen', 'Name': 'Chris  Nwaoyo', 'Handle': 'thachrismafia', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'This RogerFederer guy is tennisMiamiOpen', 'Name': 'mjd', 'Handle': 'mjd_villaflores', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'Come ooonnn RogerFedererMiamiOpen', 'Name': 'Cem Güven', 'Handle': 'CemGven', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'Just unbelievable what RogerFederer is doing on the courts at the moment! He seems to be like wine, the older the better.MiamiOpen', 'Name': 'Moɳα', 'Handle': 'MsMonkBay', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'Finally going to bed  Thanks to rogerfedererRogerFederer', 'Name': 'Schokoladenmiss', 'Handle': 'WunderBayern', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'Thank you RogerFederer', 'Name': 'Lucius Fox', 'Handle': 'Lucius_Fox_69', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'Delight for rogerfederer \nHe moves on for the semifinals at miamiopen2017MiamiOpenrogerfederer', 'Name': 'Suhel Roshan', 'Handle': 'SuhelRoshan', 'replies': '0', 'retweets': '0', 'Date': '5h'}
+{'Tweet': 'Cooooome on !!! RogerFederer', 'Name': 'SimonDebliqui', 'Handle': '5h', 'likes': '0', 'replies': '0', 'retweets': '0', 'Date': '5 hours ago'}
+{'Tweet': 'Poesia SkyTennisRogerFedererpic.twitter.com/5YIYSuqbN1', 'Name': 'Mariano falco', 'Handle': 'mariano01021988', 'replies': '0', 'retweets': '0', 'Date': '6h'}

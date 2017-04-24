@@ -1,0 +1,24 @@
+<html>
+   <head>
+       <title>Handle POST requests with Flask</title>
+       <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+   </head>
+   <body>
+       <div id="container">
+           <div class="title">
+               <h1>POST request with Flask</h1>
+           </div>
+           <div id="content">
+               Hash tag <strong>{{ hash_tag }}</strong>
+               Tweets <br> {{string}}
+           </div>
+           <div class="title">
+             <button id="myButton" class="float-left submit-button" >Scrape more !!</button>
+             <script type="text/javascript">
+                 document.getElementById("myButton").onclick = function () {
+                     location.href = "/hash_form";
+                 };
+             </script>
+       </div>
+   </body>
+</html>

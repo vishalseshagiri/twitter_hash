@@ -1,0 +1,20 @@
+{'Handle': 'Elizabethjbooks', 'retweets': '0', 'Date': 'Apr 21', 'replies': '0', 'likes': '8', 'Tweet': 'Guys my dog is boltpic.twitter.com/EnUlAzGMNj', 'Name': 'Elizabeth Jeannel'}
+{'Handle': 'daviesallison1', 'retweets': '2', 'Date': 'Apr 22', 'replies': '0', 'likes': '13', 'Tweet': 'Those birds are hysterical fundaybolt', 'Name': 'Allison'}
+{'Handle': 'Eddy_Harris87', 'retweets': '0', 'Date': 'Apr 17', 'replies': '0', 'Tweet': '2017 CHEVROLETBOLT EV LONG-TERM ARRIVAL\nhttps://goo.gl/zKDIObpic.twitter.com/QoxwbvIwp7', 'Name': 'Eddy Harris'}
+{'Handle': 'daviesallison1', 'retweets': '2', 'Date': 'Apr 22', 'replies': '0', 'likes': '7', 'Tweet': 'Seeing bolt for the first time Funday', 'Name': 'Allison'}
+{'Handle': 'Verified account', 'retweets': '5', 'Date': 'FreeformTV', 'replies': '0', 'likes': '22', 'Tweet': 'Penny is in real trouble this time! BoltFUNDAY', 'Name': 'Freeform'}
+{'Handle': '3_325thAirborne', 'retweets': '2', 'Date': '12h', 'likes': '24', 'Tweet': 'YellowLab fell asleep watching BoltLazySunday', 'Name': 'Dan Thomas'}
+{'Handle': 'Verified account', 'retweets': '6', 'Date': 'FreeformTV', 'replies': '0', 'likes': '45', 'Tweet': 'Rhino has superpowers of his own. BoltFUNDAYpic.twitter.com/XzMG4rficR', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '8', 'Date': 'FreeformTV', 'replies': '0', 'likes': '41', 'Tweet': '"Initiating escape!" BoltFUNDAYpic.twitter.com/0Sms15jHJX', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '12', 'Date': 'FreeformTV', 'replies': '0', 'likes': '57', 'Tweet': 'When you meet your biggest fan. BoltFUNDAYpic.twitter.com/Kq1G1ZcGRS', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '16', 'Date': 'FreeformTV', 'replies': '0', 'likes': '50', 'Tweet': '"That\'s one stuck melon." BoltFUNDAYpic.twitter.com/hQZ0W9AMuu', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '12', 'Date': 'FreeformTV', 'replies': '0', 'likes': '53', 'Tweet': "When you see a familiar face, but you can't place it. BoltFUNDAYpic.twitter.com/ZiWaiDQOsL", 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '5', 'Date': 'FreeformTV', 'replies': '2', 'likes': '42', 'Tweet': 'Calico strikes again! BoltFUNDAYpic.twitter.com/j5hTpaCa0O', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '7', 'Date': 'FreeformTV', 'replies': '0', 'likes': '41', 'Tweet': '"I will not rest until my Penny is safe from the green-eyed man\'s clutches." BoltFUNDAYpic.twitter.com/Ln05C4lhC8', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '7', 'Date': 'FreeformTV', 'replies': '0', 'likes': '54', 'Tweet': "He's got style! BoltFUNDAYpic.twitter.com/ey72B4b4wF", 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '7', 'Date': 'FreeformTV', 'replies': '0', 'likes': '45', 'Tweet': "Say  to the cutest action star you'll ever see! BoltFUNDAYpic.twitter.com/yfVCJmDf8E", 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '11', 'Date': 'BabyDaddyTV', 'replies': '0', 'likes': '46', 'Tweet': 'FUNDAY = awesome movies ALL DAY. Tune in for Bolt at 3:40/2:40c, followed by ToyStory and more!pic.twitter.com/iST6IqGghI', 'Name': 'Baby Daddy'}
+{'Handle': 'Verified account', 'retweets': '5', 'Date': 'YoungandHungry', 'replies': '0', 'likes': '30', 'Tweet': 'Let’s have some fun. It’s FUNDAY! Watch movies like Bolt at 3:40/2:40c, followed by ToyStory and more!pic.twitter.com/Fs9Y2R79fm', 'Name': 'Young & Hungry'}
+{'Handle': 'Verified account', 'retweets': '10', 'Date': 'FreeformTV', 'replies': '0', 'likes': '65', 'Tweet': '"That\'s a keeper." BoltFUNDAYpic.twitter.com/vPKUry8BGR', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '8', 'Date': 'FreeformTV', 'replies': '0', 'likes': '40', 'Tweet': 'The master of stealth, Rhino, joins the search for Penny! \nBoltFUNDAYpic.twitter.com/MYp1gs2SpU', 'Name': 'Freeform'}
+{'Handle': 'Verified account', 'retweets': '5', 'Date': 'FreeformTV', 'replies': '0', 'likes': '27', 'Tweet': '"Hey, look! My stomach\'s distended!" - Mittens \nBoltFUNDAY', 'Name': 'Freeform'}
