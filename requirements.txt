@@ -3,7 +3,7 @@ asn1crypto==0.22.0
 attrs==16.3.0
 Automat==0.5.0
 backports-abc==0.5
-bleach==2.0.0
+bleach==3.1.1
 cffi==1.10.0
 click==6.7
 constantly==15.1.0
